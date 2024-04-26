@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "KunciBreak",
+            "request": "launch",
+            "mainClass": "KunciBreak",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "KunciContinue",
+            "request": "launch",
+            "mainClass": "KunciContinue",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "deretBilangan",
+            "request": "launch",
+            "mainClass": "deretBilangan",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "doWhileLoop",
+            "request": "launch",
+            "mainClass": "doWhileLoop",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "kelipatan7",
+            "request": "launch",
+            "mainClass": "kelipatan7",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "mengalikanDuainput",
+            "request": "launch",
+            "mainClass": "mengalikanDuainput",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "mesinKasir",
+            "request": "launch",
+            "mainClass": "mesinKasir",
+            "projectName": "modul3_ab0a8755"
+        },
+        {
+            "type": "java",
+            "name": "whileLoopbilanganterbesar",
+            "request": "launch",
+            "mainClass": "whileLoopbilanganterbesar",
+            "projectName": "modul3_ab0a8755"
+        }
+    ]
+}

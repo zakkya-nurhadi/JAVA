@@ -1,0 +1,311 @@
+3.
+
+public class TipeDataNumber {
+
+public static void main(String[] args) {
+
+byte iniByte = 100;
+
+short iniShort = 1000;
+
+int iniInt = 10000000;
+
+Long IniLong = 1000000000;
+
+7
+
+Long iniLong2 1800000000L;
+
+10
+
+11
+
+12
+
+15
+
+14
+
+15
+
+20
+
+17
+
+}
+
+10
+
+float iniFloat = 18.10F;
+
+double iniDouble = 10.10;
+
+int decimalInt = 34;
+
+int hexadecimal = BxFFFFFF;
+
+int binaryDecimal = 0b10101016;
+
+int amount=1_008_000_000;
+
+
+4.
+
+
+
+
+public class KonversiNumber {
+
+public static void main(String[] args) {
+
+byte iniByte = 10;
+
+short iniShort = iniByte;
+
+int iniInt = iniShort;
+
+int iniInt2 = 1000;
+
+byte iniByte2 = (byte) iniInt2;
+
+ }
+
+}
+
+
+5.
+
+public class TipeDataChar {
+
+public static void main(String[] args) -
+
+char a = 'A';
+
+char g = '6';
+
+char u = '0';
+
+char s = 'S';
+
+System.out.print(a);
+
+System.out.print(g);
+
+System.out.print(u);
+
+System.out.print(s);
+
+}
+
+
+6.
+
+public class Tipe DataBoolean {
+
+public static void main(String[] args) {
+
+boolean benar = true;
+
+boolean salah = false;
+
+System.out.println(benar);
+
+System.out.println(salah);
+
+}
+
+7.
+
+
+
+public class TipeDataString {
+
+public static void main(String[] args) {
+
+String firstName = "Agus";
+
+String lastName = "Ambarwari";
+
+String fullName = firstName + " + LastName;
+
+System.out.println(firstName);
+
+System.out.println(lastName);
+
+ }
+
+}
+
+System.out.println(fullName);
+
+8.
+
+public class Variable {
+
+public static void main(String[] args) {
+
+String name;
+
+name = "Agus Ambarwari";
+
+System.out.println(name);
+
+int age 28;
+
+String address = "Indonesia";
+
+System.out.println(age);
+
+System.out.println(address);
+
+name = "Agiska Ria";
+
+System.out.println(name);
+
+var firstName = "Agiska";
+
+var middleName = "Ria";
+
+var LastName = "Supriyatna";
+
+final String application = "Pemrograman Dasar";
+
+}
+
+
+
+9.
+
+
+
+public class Tipe DataBukan Primitif {
+
+public static void main(String[] args) {
+
+Integer iniInteger = 100;
+
+Long inilong = 10000L;
+
+Byte iniByte = null;
+
+System.out.println(iniByte);
+
+iniByte = 100;
+
+System.out.println(iniByte);
+
+
+int iniInt = 100;
+
+Integer ini0bject = iniInt;
+
+short iniShort = ini0bject.shortValue();
+
+Long iniLong2 = ini0bject.longValue();
+
+float iniFloat = ini0bject.floatValue();
+
+Long amount = 1000000L;
+
+
+10.
+
+public class Operasi Matematika {
+
+public static void main(String[] args) {
+
+int a = 100;
+
+int b = 10;
+
+System.out.println(a + b);
+
+System.out.println(a b);
+
+System.out.println(a + b);
+
+System.out.println(a/b);
+
+System.out.println(a % b);
+
+int c = 100;
+
+C += 10;
+
+System.out.println(c);
+
+c = 10;
+
+System.out.println(c);
+
+c *= 10;
+
+System.out.println(c);
+
+
+int d = 100;
+
+d++;
+
+System.out.println(d);
+
+d--;
+
+System.out.println(d);
+
+}
+
+}
+
+
+11.
+
+
+
+public class Operasi Perbandingan {
+
+ public static void main(String[] args) {
+
+int a = 100;
+
+int b = 100;
+
+System.out.println(a > b);
+
+System.out.println(a < b);
+
+System.out.println(a >= b);
+
+System.out.println(a <= b);
+
+System.out.println(a == b);
+
+System.out.println(a = b);
+
+}
+
+}
+
+
+12.
+
+public class OperasiBoolean {
+
+
+
+public static void main(String[] args) {
+
+var absen = 75; www
+
+var nilaiAkhir = 80;
+
+boolean lulusAbsen absen >= 75;
+
+boolean LulusNilai = nilaiAkhir >= 75;
+
+var lulus = LulusAbsen && LulusNilai; System.out.println(lulus);
+
+}
+
+}
+
